@@ -13,6 +13,7 @@
 
 <p align="left">I'm a backend engineering student, and I've always loved solving problems and finding challenges to address with programming <br><br> I have experience with the following technologies:<br>- Python<br>- MySQL<br>- Git<br><br>I'm capable of developing smart and practical solutions, from the simplest one to the most complex one, I use them for improve my environment<br><br>I'm always eager to improve myself and gain knowledge to solve problems in the most methodical and practical way possible</p>
 
+<h2 align="left">I code with</h2>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
@@ -30,4 +31,15 @@
 - <a href="https://github.com/EduardoAlcaria/Yuta-MP3-Downloader">Yuta MP3 Downloader</a>:  
 This project is an MP3 downloader with a CLI interface. It includes features such as link authentication, the ability to specify a download path, and a playlist downloader.  
 </p>
+
+<h2 align="left">Reach me trought</h2>
+
+<div align="left">
+  <a href="https://www.instagram.com/alcaria_eduardo/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+  </a>
+  <a href="eduardoalcarialopes1@outlook.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+  </a>
+</div>
 
