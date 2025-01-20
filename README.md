@@ -27,19 +27,12 @@
 </div>
 <h2 align="left">Projects</h2>
 
+- Are you a recruiter? Reach me through ➞
+  <a href="mailto:eduardoalcarialopes@gmail.com" target="blank">
+    <img align="center" alt="Gmail" title="Gmail" height="20" width="20" src="https://img.icons8.com/external-justicon-lineal-color-justicon/30/000000/external-gmail-social-media-justicon-lineal-color-justicon.png">
+  </a>
 <p align="left">  
 - <a href="https://github.com/EduardoAlcaria/Yuta-MP3-Downloader">Yuta MP3 Downloader</a>:  
 This project is an MP3 downloader with a CLI interface. It includes features such as link authentication, the ability to specify a download path, and a playlist downloader.  
 </p>
-
-<h2 align="left">Reach me trought</h2>
-
-<div align="left">
-  <a href="https://www.instagram.com/alcaria_eduardo/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
-  </a>
-  <a href="eduardoalcarialopes1@outlook.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
-  </a>
-</div>
 
