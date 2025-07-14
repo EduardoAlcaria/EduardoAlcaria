@@ -1,50 +1,80 @@
 <div align="center">
- <h3>Hi my name is Eduardo and welcome to my profile!!</h3>
-</div>
-<img src="https://i.pinimg.com/originals/f0/c0/50/f0c050ea2acee07879b4b0f20731f4f2.gif" alt="Banner" width="100%">
-
-<div align="center">
-  <h3>Backend Developer | Python | MySQL </h3>
+  <h2>Hi, I'm Eduardo 👋</h2>
+  <h3>Backend Developer | Java • Python • MySQL</h3>
+  <p><i>Step by step, I am making my dreams come true.</i></p>
 </div>
 
-<h5 align="center">
-  <i> Step by step, I am making my dreams come true </i>
-</h5>
+<img src="https://i.pinimg.com/originals/f0/c0/50/f0c050ea2acee07879b4b0f20731f4f2.gif" width="100%">
 
+---
 
-<p align="left">🏫 Software Engineering Student at PUCRS (Estudante de Engenharia de Software na PUCRS )<br>👨🏻‍💻  Self Taught Backend Developer (Programador Backend autodidata)<br>📖I am studying JAVA ☕ at the moment</p>
+## 🧠 About Me
 
-###
+🎓 Software Engineering Student at PUCRS  
+👨🏻‍💻 Backend developer passionate about building real-world systems  
+☕ Currently developing apps using Java, MySQL, and web scraping  
+💡 Obsessed with clean architecture, modular code, and solving complex problems with OOP
 
-<h2 align="left">About me</h2>
+---
 
-###
+## 💻 Featured Projects
 
-<p align="left">I'm a backend engineering student, and I've always loved solving problems and finding challenges to address with programming I'm capable of developing smart and practical solutions, from the simplest one to the most complex one, I use them for improve my environment<br><br>I'm always eager to improve myself and gain knowledge to solve problems in the most methodical and practical way possible</p>
+### 🎮 [MyGameTracker](https://github.com/EduardoAlcaria/MyGameTracker)  
+> Java system tray app that tracks game playtime and scrapes Steam
 
-<h2 align="left">Some of my projects</h2>
+- Java + MySQL + Jsoup
+- BCrypt-based user authentication
+- Tracks game processes on Windows
+- Modular OOP structure with real-use focus
 
-<p align="left">  
-- <a href="https://github.com/EduardoAlcaria/Yuta-MP3-Downloader">Yuta MP3 Downloader</a>:  
-This project is an MP3 downloader with a CLI interface. It includes features such as link authentication, the ability to specify a download path, and a playlist downloader.  
-</p>
--<strong> My Game Tracker: Comming Soon 🚀</strong> 
+---
 
+### 📡 [torrentStudies](https://github.com/EduardoAlcaria/torrentStudies)  
+> BitTorrent client built from scratch with Python
 
-## Detailed information
-- **Name**: Eduardo Alcaria Lopes
-- **Age**: 18
-- **Living in**: Porto Alegre - RS, Brazil
-- **University**: Pontifical Catholic University of Rio Grande do Sul (PUCRS)
-- **Graduation**: Software Engineering
-- **Stack**: Python - MySQL
-- **Studying**: Java - English
-## How to find me
-- Are you a recruiter? I'm available at ➞  <a href="mailto:eduardoalcarialopes@gmail.com?subject=Hello%20Eduardo" target="blank"><img align="center" alt="Gmail" title="Gmail" height="20" width="20" src="https://img.icons8.com/external-justicon-lineal-color-justicon/30/000000/external-gmail-social-media-justicon-lineal-color-justicon.png"> </a>
- 
+- Supports multi-file `.torrent` downloads
+- Peer-to-peer via HTTP and UDP
+- Threaded architecture for concurrent transfers
+- Currently under major refactor for better design
 
-## Favorite Languages
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoAlcaria&hide_progress=false&theme=radical)
+---
 
+### 🔍 [YouTube Title Scraper](https://github.com/EduardoAlcaria/YouTubeTitleScrapper)  
+> CLI tool to extract video titles from YouTube playlists
 
+- Built with Python, Selenium, BeautifulSoup
+- Automates browser, parses playlist HTML
+- Helps automate content tracking for productivity
 
+---
+
+## 🔧 Tech Stack
+
+`Java` • `Python` • `MySQL` • `JDBC` • `Git` • `Selenium` • `Jsoup` • `BCrypt` • `OOP` • `Multithreading` • `Web Scraping`
+
+---
+
+## 📍 Detailed Info
+
+- **Name:** Eduardo Alcaria Lopes  
+- **Age:** 18  
+- **Location:** Porto Alegre, RS – Brazil  
+- **University:** PUCRS  
+- **Program:** Software Engineering (2025–2029)  
+- **Currently Studying:** Java & English (Advanced)
+
+---
+
+## 📬 Contact Me
+
+Recruiters welcome!  
+<a href="mailto:eduardoalcarialopes@gmail.com?subject=Hello%20Eduardo" target="blank">
+  <img align="center" alt="Gmail" title="Gmail" height="20" width="20" src="https://img.icons8.com/external-justicon-lineal-color-justicon/30/000000/external-gmail-social-media-justicon-lineal-color-justicon.png"> eduardoalcarialopes@gmail.com
+</a>  
+🔗 [LinkedIn](https://www.linkedin.com/in/eduardo-alcaria-lopes-7072b02b4/)
+
+---
+
+## 📊 Favorite Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoAlcaria&hide_progress=false&theme=radical)
