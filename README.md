@@ -1,6 +1,6 @@
 <div align="center">
   <h2>Hi, I'm Eduardo 👋</h2>
-  <h3>Backend Developer | Java • Python • MySQL</h3>
+  <h3>Backend Developer</h3>
   <p><i>Step by step, I am making my dreams come true.</i></p>
 </div>
 
@@ -12,8 +12,8 @@
 
 🎓 Software Engineering Student at PUCRS  
 👨🏻‍💻 Backend developer passionate about building real-world systems  
-☕ Currently developing apps using Java, MySQL, and web scraping  
-💡 Obsessed with clean architecture, modular code, and solving complex problems with OOP
+☕ Currently developing apps 
+💡 Obsessed with clean code, megalomaniac systems, inovative soltuions
 
 ---
 
@@ -50,7 +50,7 @@
 
 ## 🔧 Tech Stack
 
-`Java` • `Python` • `MySQL` • `JDBC` • `Git` • `Selenium` • `Jsoup` • `BCrypt` • `OOP` • `Multithreading` • `Web Scraping`
+`Java` • `Spring Boot` • `Spring Framework` • `Python` • `Node.js` • `PHP` • `Laravel` • `JavaScript` • `TypeScript` • `MySQL` • `PostgreSQL` • `JDBC` • `Git` • `GitHub` • `Docker` • `Railway` • `JUnit` • `MVC` • `Clean Code` • `Clean Architecture` • `Scrum` • `Kanban` • `Selenium` • `Jsoup` • `BCrypt` • `OOP` • `Multithreading` • `Web Scraping` • `REST APIs`
 
 ---
 
@@ -61,7 +61,7 @@
 - **Location:** Porto Alegre, RS – Brazil  
 - **University:** PUCRS  
 - **Program:** Software Engineering (2025–2029)  
-- **Currently Studying:** Java & English (Advanced)
+- **Currently Studying:** Spring and Spring Boot
 
 ---
 
