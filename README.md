@@ -81,4 +81,7 @@ Recruiters welcome!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoAlcaria&hide_progress=false&theme=radical)
 
-[![Eduardo Alcaria's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoAlcaria)](https://github.com/EduardoAlcaria/github-readme-stats)
+<div>
+<a href="https://github.com/EduardoAlcaria">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoAlcaria&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
