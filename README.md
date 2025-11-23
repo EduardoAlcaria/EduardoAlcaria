@@ -24,13 +24,15 @@
 
 ## 💻 Featured Projects
 
-### 🎮 [MyGameTracker](https://github.com/EduardoAlcaria/MyGameTracker)  
-> Java system tray app that tracks game playtime and scrapes Steam
+### 🎮 [Sixeyes](https://github.com/EduardoAlcaria/sixeyes)  
+> A web based remote tool torrent downloader.
 
-- Java + MySQL + Jsoup
-- BCrypt-based user authentication
-- Tracks game processes on Windows
-- Modular OOP structure with real-use focus
+- Java (Spring Boot) + JS (React) + Python + gcloud
+- Montitor you network and Storage when usign the web tool
+- Download from anyware in the world
+- Hybrid Architecture with a local Python script
+- Under cleaning up and new functionalities coming soon
+  
 
 ---
 
