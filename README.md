@@ -24,7 +24,7 @@
 > A web based remote tool torrent downloader.
 
 - Java (Spring Boot) + JS (React) + Python + gcloud
-- Montitor you network and Storage when usign the web tool
+- Montitor you network and Storage when using the web tool
 - Download from anyware in the world
 - Hybrid Architecture with a local Python script
 - Under cleaning up and new functionalities coming soon
@@ -60,7 +60,7 @@
 ## 📍 Detailed Info
 
 - **Name:** Eduardo Alcaria Lopes  
-- **Age:** 18  
+- **Age:** 19  
 - **Location:** Porto Alegre, RS – Brazil  
 - **University:** PUCRS  
 - **Program:** Software Engineering (2025–2029)  
