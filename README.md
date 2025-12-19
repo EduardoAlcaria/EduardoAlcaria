@@ -1,11 +1,5 @@
 
 
-
-
-
-
-
-
 <div align="center">
   <h2>Hi, I'm Eduardo 👋</h2>
   <h3>Backend Developer</h3>
