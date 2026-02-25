@@ -11,8 +11,7 @@
 ## 🧠 About Me
 
 🎓 Software Engineering Student at PUCRS  
-👨🏻‍💻 Backend developer passionate about building real-world systems  
-☕ Currently developing apps 
+👨🏻‍💻 Fullstack dev at AFL Intelligence
 💡 Obsessed with clean code, megalomaniac systems, inovative soltuions
 
 ---
