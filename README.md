@@ -40,12 +40,12 @@
 
 ---
 
-### 🔍 [YouTube Title Scraper](https://github.com/EduardoAlcaria/YouTubeTitleScrapper)  
-> CLI tool to extract video titles from YouTube playlists
+### 🔍 [absolute](https://github.com/EduardoAlcaria/absolute)  
+> A personal gaming tracker for Android. Search your backlog, track progress across custom categories, and share your library.
 
-- Built with Python, Selenium, BeautifulSoup
-- Automates browser, parses playlist HTML
-- Helps automate content tracking for productivity
+- Built with Python, JS (React), Capacitor 
+- Search and add games from the IGDB database
+- Game details: summary, developer, platforms, time-to-beat, Steam price
 
 ---
 
