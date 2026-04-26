@@ -61,8 +61,7 @@
 - **Age:** 19  
 - **Location:** Porto Alegre, RS – Brazil  
 - **University:** PUCRS  
-- **Program:** Software Engineering (2025–2029)  
-- **Currently Studying:** Spring and Spring Boot
+- **Course:** Software Engineering (2025–2029)  
 
 ---
 
