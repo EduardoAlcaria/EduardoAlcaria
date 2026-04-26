@@ -11,8 +11,7 @@
 ## 🧠 About Me
 
 🎓 Software Engineering Student at PUCRS  
-👨🏻‍💻 Fullstack dev at AFL Intelligence
-💡 Obsessed with clean code, megalomaniac systems, inovative soltuions
+👨🏻‍💻 Fullstack Dev at AFL Intelligence
 
 ---
 
@@ -33,10 +32,10 @@
 ### 📡 [torrentStudies](https://github.com/EduardoAlcaria/torrentStudies)  
 > BitTorrent client built from scratch with Python
 
-- Supports multi-file `.torrent` downloads
+- Supports multi-file `.torrent` downloads and magnets links
 - Peer-to-peer via HTTP and UDP
+- Supports DHT Nodes
 - Threaded architecture for concurrent transfers
-- Currently under major refactor for better design
 
 ---
 
