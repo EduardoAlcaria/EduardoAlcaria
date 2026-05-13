@@ -29,7 +29,7 @@
 
 ---
 
-### 📡 [torrentStudies](https://github.com/EduardoAlcaria/torrentStudies)  
+### 📡 [torrentStudies](https://github.com/EduardoAlcaria/BitMetal)  
 > BitTorrent client built from scratch with Python
 
 - Supports multi-file `.torrent` downloads and magnets links
