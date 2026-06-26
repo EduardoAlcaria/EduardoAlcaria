@@ -73,7 +73,7 @@ Recruiters welcome!
   <img align="center" alt="Gmail" title="Gmail" height="20" width="20" src="https://img.icons8.com/external-justicon-lineal-color-justicon/30/000000/external-gmail-social-media-justicon-lineal-color-justicon.png"> eduardoalcarialopes@gmail.com
 </a>  
 🔗 [LinkedIn](https://www.linkedin.com/in/eduardo-alcaria-lopes-7072b02b4/)
-🔗 [📄 Download my CV](https://github.com/EduardoAlcaria/EduardoAlcaria/blob/main/EduardoAlcariaLopesDesenvolvedorBackend.pdf)
+🔗 [📄 Download my CV](https://github.com/EduardoAlcaria/EduardoAlcaria/blob/main/Eduardo%20Alcaria%20Lopes%20Desenvolvedor%20Java%20Backend.pdf)
 
 
 ---
