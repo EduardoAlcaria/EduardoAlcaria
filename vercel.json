@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/spotify.js": {
+      "maxDuration": 10
+    }
+  }
+}
