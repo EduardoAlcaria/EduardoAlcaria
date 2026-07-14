@@ -33,21 +33,21 @@ Now playing, or last 5 tracks if I'm offline.
 
 <div align="center">
 
-<a href="https://github.com/EduardoAlcaria/sixeyes"><img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoAlcaria&repo=sixeyes&theme=radical" /></a>
+<a href="https://github.com/EduardoAlcaria/arise"><img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoAlcaria&repo=arise&theme=radical" /></a>
 <a href="https://github.com/EduardoAlcaria/Vow"><img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoAlcaria&repo=Vow&theme=radical" /></a>
-<a href="https://github.com/EduardoAlcaria/Absolute"><img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoAlcaria&repo=Absolute&theme=radical" /></a>
-<a href="https://github.com/EduardoAlcaria/ig_finder"><img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoAlcaria&repo=ig_finder&theme=radical" /></a>
-<a href="https://github.com/EduardoAlcaria/desc-elaborator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoAlcaria&repo=desc-elaborator&theme=radical" /></a>
-<a href="https://github.com/EduardoAlcaria/http_downloader"><img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoAlcaria&repo=http_downloader&theme=radical" /></a>
+<a href="https://github.com/EduardoAlcaria/soul"><img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoAlcaria&repo=soul&theme=radical" /></a>
+<a href="https://github.com/EduardoAlcaria/sixeyes"><img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoAlcaria&repo=sixeyes&theme=radical" /></a>
+<a href="https://github.com/EduardoAlcaria/penumbra"><img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoAlcaria&repo=penumbra&theme=radical" /></a>
+<a href="https://github.com/EduardoAlcaria/Kagein"><img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoAlcaria&repo=Kagein&theme=radical" /></a>
 
 </div>
 
-- **sixeyes** — remote torrent control, hybrid Java/Spring + React + Python architecture, network/storage monitoring
-- **Vow** — BitTorrent client from scratch in Python, no libraries: peer wire protocol, DHT, multi-threaded downloads
-- **Absolute** — Android game backlog tracker, IGDB search, React + Capacitor
-- **ig_finder** — finds a person in a company's Instagram followers via fuzzy + uncommon-name scoring, Playwright-driven
-- **desc-elaborator** — AI description rewriter on local Ollama models (Mistral/LLaMA)
-- **http_downloader** — lightweight HTTP downloader utility in Python
+- **[Arise](https://github.com/EduardoAlcaria/arise)** — self-hosted automation hub: manage remote servers, deploy from GitHub over SSH, run Docker containers, expose apps via Cloudflare Tunnels, no cloud CI/CD
+- **[Vow](https://github.com/EduardoAlcaria/Vow)** — BitTorrent client from scratch in Python, no libraries: peer wire protocol, DHT, multi-threaded downloads
+- **[soul](https://github.com/EduardoAlcaria/soul)** — coding brain map: keystroke recorder, profiler, and identity extractor
+- **[sixeyes](https://github.com/EduardoAlcaria/sixeyes)** — remote torrent control, hybrid architecture, no VPN or port forwarding
+- **[Penumbra](https://github.com/EduardoAlcaria/penumbra)** — local-only RGB lighting control for PC hardware, native Tauri app, 60fps USB HID effects, zero cloud
+- **[Kagein](https://github.com/EduardoAlcaria/Kagein)** — self-hosted Find My tracker: Python FindMy service + Spring BFF + React frontend
 
 ---
 
@@ -55,19 +55,7 @@ Now playing, or last 5 tracks if I'm offline.
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://stats.pphat.top/icons?name=java,spring,python,typescript,react,nodejs,php,laravel,postgresql,mysql,docker,vercel,git&size=medium&columns=7" />
 
 </div>
 
@@ -81,6 +69,8 @@ Now playing, or last 5 tracks if I'm offline.
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoAlcaria&layout=compact&theme=radical" />
 
 <img src="https://streak-stats.demolab.com?user=EduardoAlcaria&theme=radical" />
+
+<img width="800" src="https://metrics.lecoq.io/EduardoAlcaria?template=classic&base=header,activity&config.timezone=America/Sao_Paulo&plugin_isocalendar=true&plugin_isocalendar.duration=full-year" />
 
 </div>
 
