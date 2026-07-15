@@ -1,9 +1,0 @@
-{
-  "name": "eduardoalcaria-spotify-widget",
-  "version": "1.0.0",
-  "private": true,
-  "description": "Vercel serverless function that renders a live Spotify now-playing SVG for the GitHub profile README",
-  "scripts": {
-    "get-refresh-token": "node scripts/get-refresh-token.js"
-  }
-}
